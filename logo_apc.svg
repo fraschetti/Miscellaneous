@@ -1,1 +1,79 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 383.39 101.85"><defs><style>.cls-1,.cls-2{fill-rule:evenodd;}.cls-2{fill:red;}</style></defs><title>APC</title><g id="Layer_2" data-name="Layer 2"><g id="svg2"><path id="path57" class="cls-1" d="M298.2,78.05a3.11,3.11,0,1,1,3.11,3.07,3.06,3.06,0,0,1-3.11-3.07m3.11,2.56a2.55,2.55,0,1,0-2.49-2.56,2.47,2.47,0,0,0,2.49,2.56m-.65-.78h-.53V76.29h1.34c.84,0,1.25.31,1.25,1a.91.91,0,0,1-.91,1l1,1.56h-.6l-.93-1.54h-.62v1.54l.64-2c.46,0,.86,0,.86-.57s-.39-.52-.77-.52h-.73v1.09h.64l-.64,2"/><path id="path51" class="cls-2" d="M65.94,99.24,52.87,75.94h47.25L76.39,25.71,41.61,99.24H0L54.48,0H98.31l54.08,99.24H65.94"/><path id="path53" class="cls-2" d="M152.59,41.59h51.86c13.07,0,18.3-.81,18.3-10.05,0-8.84-4.22-9.84-17.69-9.84H152.39L140.73,0H213.9c34.58,0,47.45,15.07,47.45,31.14,0,15.47-11.87,32.54-49.86,32.54H194.2V99.24H152.39V41.59h.2"/><path id="path55" class="cls-2" d="M369.71,93.21c-12.47,5.83-27.95,8.64-44.43,8.64-49.86,0-66.95-27.72-66.95-50.62,0-28.93,25.33-51.23,69-51.23C343.17,0,357,2.41,368.7,6.83V35.56c-12.06-6.43-22.52-9.24-34.78-9.24-20.91,0-38,9.44-38,24.51,0,14.86,17.49,24.51,38.4,24.51,12.06,0,21.91-2.41,35.39-8.64V93.21"/><path id="path2401" class="cls-1" d="M374.12,8.58a4.64,4.64,0,1,1,4.65,4.56,4.56,4.56,0,0,1-4.65-4.56m4.65,3.8a3.68,3.68,0,0,0,3.7-3.8,3.72,3.72,0,1,0-7.43,0,3.68,3.68,0,0,0,3.73,3.8m-1-1.16H377V6h2c1.24,0,1.86.46,1.86,1.49a1.37,1.37,0,0,1-1.37,1.45L381,11.22h-.9l-1.39-2.28h-.92v2.28l.95-3c.68,0,1.29,0,1.29-.86,0-.65-.6-.77-1.15-.77H377.8V8.27h.95l-.95,3"/></g></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   height="101.85"
+   width="369.70999"
+   sodipodi:docname="logo_apc.svg"
+   id="svg15"
+   version="1.1"
+   viewBox="0 0 369.70998 101.85">
+  <metadata
+     id="metadata19">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>APC</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:current-layer="svg15"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-12"
+     inkscape:window-x="-12"
+     inkscape:cy="50.925"
+     inkscape:cx="184.855"
+     inkscape:zoom="4.5071596"
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     showgrid="false"
+     id="namedview17"
+     inkscape:window-height="1690"
+     inkscape:window-width="2880"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1,.cls-2{fill-rule:evenodd;}.cls-2{fill:red;}</style>
+  </defs>
+  <title
+     id="title6">APC</title>
+  <g
+     id="g859">
+    <path
+       id="path57"
+       class="cls-1"
+       d="m 298.2,78.05 a 3.11,3.11 0 1 1 3.11,3.07 3.06,3.06 0 0 1 -3.11,-3.07 m 3.11,2.56 a 2.55,2.55 0 1 0 -2.49,-2.56 2.47,2.47 0 0 0 2.49,2.56 m -0.65,-0.78 h -0.53 v -3.54 h 1.34 c 0.84,0 1.25,0.31 1.25,1 a 0.91,0.91 0 0 1 -0.91,1 l 1,1.56 h -0.6 l -0.93,-1.54 h -0.62 v 1.54 l 0.64,-2 c 0.46,0 0.86,0 0.86,-0.57 0,-0.57 -0.39,-0.52 -0.77,-0.52 h -0.73 v 1.09 h 0.64 l -0.64,2" />
+    <path
+       id="path51"
+       class="cls-2"
+       d="M 65.94,99.24 52.87,75.94 h 47.25 L 76.39,25.71 41.61,99.24 H 0 L 54.48,0 h 43.83 l 54.08,99.24 H 65.94" />
+    <path
+       id="path53"
+       class="cls-2"
+       d="m 152.59,41.59 h 51.86 c 13.07,0 18.3,-0.81 18.3,-10.05 0,-8.84 -4.22,-9.84 -17.69,-9.84 H 152.39 L 140.73,0 h 73.17 c 34.58,0 47.45,15.07 47.45,31.14 0,15.47 -11.87,32.54 -49.86,32.54 H 194.2 V 99.24 H 152.39 V 41.59 h 0.2" />
+    <path
+       id="path55"
+       class="cls-2"
+       d="m 369.71,93.21 c -12.47,5.83 -27.95,8.64 -44.43,8.64 -49.86,0 -66.95,-27.72 -66.95,-50.62 C 258.33,22.3 283.66,0 327.33,0 343.17,0 357,2.41 368.7,6.83 v 28.73 c -12.06,-6.43 -22.52,-9.24 -34.78,-9.24 -20.91,0 -38,9.44 -38,24.51 0,14.86 17.49,24.51 38.4,24.51 12.06,0 21.91,-2.41 35.39,-8.64 v 26.51" />
+  </g>
+</svg>
